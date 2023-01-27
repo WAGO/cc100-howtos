@@ -80,7 +80,7 @@ AO1:
 
 A02:
 ```
-/sys/bus/iio/devices/iio:device0/out_voltage2_powerdown
+/sys/bus/iio/devices/iio:device1/out_voltage2_powerdown
 ```
 
 The necessary voltage [mV] at the output is set by entering a calibrated value in the
