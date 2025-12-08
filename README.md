@@ -5,5 +5,5 @@
 | Name                               | for Version | Description |
 | :--------------------------------- | :---------- | :---------- |
 | HowTo_Access_Onboard_IO            | FW21        | Accesing the onboard analog and digital inputs/outputs |
-| HowTo_AddPython3  | FW21        | Adding python3 |
+| HowTo_AddPython3  | FW21, FW30        | Adding python3 |
 

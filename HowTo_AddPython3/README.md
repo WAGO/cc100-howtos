@@ -8,6 +8,16 @@ This HowTo is based on a clean installation of Ubuntu LTS, with an installed and
 WAGO Board-Support Package for CC100.
 Working means that you successfully built the standard image “sd.hdimg”.
 
+## Precompiled Packages
+
+This repository contains precompiled python packages suitable for
+installation via WBM.
+
+- for FW30 use [python3_3.11.10_armhf.ipk](packages/python3_3.11.10_armhf.ipk)
+- for FW21 use [python3_3.7.6_armhf.ipk](packages/python3_3.7.6_armhf.ipk)
+
+For any other firmware version, please build the packages using the SDK as decribed below.
+
 ## Installation and usage
 
 ### 1)  On development host (Ubuntu)
